@@ -1,29 +1,17 @@
-# projecttest
+# Project Test with **VUE.JS**
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Objectif
 
-### Compiles and minifies for production
-```
-npm run build
-```
+* Créer plusieurs fois un projet multipages avec `Vue JS` + `Vue Router`
+    * Home (with 2 components)
 
-### Run your tests
-```
-npm run test
-```
+    * About (With 1 component)
 
-### Lints and fixes files
-```
-npm run lint
-```
+    * Contact (with on form as component)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## En cours
+
+* Mise en forme
+* Vuex
